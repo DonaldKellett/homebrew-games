@@ -12,9 +12,9 @@ Then search for and install formulae as usual.
 
 ## Contributing
 
-This repo is not accepting pull requests for adding and/or removing formulae to/from the tap; however, issue reports on existing formulae are welcome. If there is an issue with an existing formula and you know a fix, feel free to open a bugfix pull request after seeking approval from the maintainer, ensuring that the patched formula works (or fails gracefully) on both macOS and Linux.
+Issue reports for existing formulae are welcome. See also [issues labelled with "help wanted"](https://github.com/DonaldKellett/homebrew-games/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) to see how you could contribute to resolving them. Pull requests addressing bugs in existing formulae are generally welcome, but remember to keep in mind that formulae should work (or fail gracefully) on both macOS and Linux platforms. If in doubt, open an issue to seek for approval from the tap maintainer.
 
-In case discrepancies in formula behavior exist between Linux distributions, the reference distribution shall be Ubuntu 20.04 LTS.
+For Linux, the reference distribution is Ubuntu 20.04 LTS.
 
 ## License
 
